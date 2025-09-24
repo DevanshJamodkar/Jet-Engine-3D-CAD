@@ -4,11 +4,6 @@ This repository contains **3D CAD models of a jet engine** created using **Solid
 ⚠️ The project is still **in development** and is **not yet complete**.
 
 ---
-
-## 📂 Current Files
-- `Blade 1.SLDPRT`
-- Additional `.SLDPRT` part files (more coming soon)
-
 ---
 
 ## ⚙️ How to View the Files
