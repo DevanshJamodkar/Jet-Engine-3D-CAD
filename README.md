@@ -4,7 +4,6 @@ This repository contains **3D CAD models of a jet engine** created using **Solid
 ⚠️ The project is still **in development** and is **not yet complete**.
 
 ---
----
 
 ## ⚙️ How to View the Files
 
